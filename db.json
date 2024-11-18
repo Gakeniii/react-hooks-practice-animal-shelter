@@ -52,7 +52,7 @@
       "age": 10,
       "weight": 5,
       "name": "Wisdom",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "9750e959-f8ef-465f-9e13-16323454dc1f",
